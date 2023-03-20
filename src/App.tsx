@@ -14,7 +14,7 @@ export function App() {
         </CartContextProvider>
       </BrowserRouter>
 
-      <GlobalStyle />  
-    </ThemeProvider> 
+      <GlobalStyle />
+    </ThemeProvider>
   )
 }
