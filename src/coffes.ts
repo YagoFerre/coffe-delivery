@@ -1,4 +1,4 @@
-import image0 from './assets/images/image.svg'
+import image from './assets/images/image.svg'
 import image1 from './assets/images/image1.svg'
 import image2 from './assets/images/image2.svg'
 import image3 from './assets/images/image3.svg'
@@ -16,7 +16,7 @@ import image13 from './assets/images/image13.svg'
 export const products = [
   {
     id: 1,
-    image: image0,
+    image,
     type: ['TRADICIONAL'],
     title: 'Expresso Tradicional',
     subtitle: 'O tradicional café feito com água quente e grãos moídos',
